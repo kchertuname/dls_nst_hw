@@ -9,4 +9,4 @@
 Результат:
 ![img2](example.jpg)
 
-Реализация частично взята из этого бложека https://nextjournal.com/gkoehler/pytorch-neural-style-transfer
+За основу реализации взят материал из этого бложека https://nextjournal.com/gkoehler/pytorch-neural-style-transfer
